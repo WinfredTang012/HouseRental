@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background2">
+
+
+
+    <TextView
+        android:id="@+id/v_location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="location"
+        android:textSize="18sp"
+        android:layout_marginTop="25dp"/>
+    <TextView
+        android:id="@+id/v_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="description"
+        android:textSize="18sp"/>
+    <TextView
+        android:id="@+id/v_facilities"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="facilities"
+        android:textSize="18sp"/>
+    <TextView
+        android:id="@+id/v_offer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="offer"
+        android:textSize="18sp" />
+
+</LinearLayout>

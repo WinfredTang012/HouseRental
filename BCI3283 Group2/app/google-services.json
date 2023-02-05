@@ -1,0 +1,301 @@
+{
+  "project_info": {
+    "project_number": "551586401891",
+    "firebase_url": "https://house-de677-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "house-de677",
+    "storage_bucket": "house-de677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551586401891:android:ce2eb15f11223b681cf256",
+        "android_client_info": {
+          "package_name": "com.example.benhousebooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551586401891-ksr41jajt5ouj4jj42bf1f964vsr9jpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk-RsAFkLTQU8nIg1w6J8uhhmgpQO-S7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551586401891-ksr41jajt5ouj4jj42bf1f964vsr9jpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551586401891:android:9b79356b3bc79ad81cf256",
+        "android_client_info": {
+          "package_name": "com.example.bookingform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551586401891-ksr41jajt5ouj4jj42bf1f964vsr9jpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk-RsAFkLTQU8nIg1w6J8uhhmgpQO-S7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551586401891-ksr41jajt5ouj4jj42bf1f964vsr9jpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551586401891:android:f0fcab24ded72d051cf256",
+        "android_client_info": {
+          "package_name": "com.example.house2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551586401891-ksr41jajt5ouj4jj42bf1f964vsr9jpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk-RsAFkLTQU8nIg1w6J8uhhmgpQO-S7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551586401891-ksr41jajt5ouj4jj42bf1f964vsr9jpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551586401891:android:a69ec62e9a54d6a91cf256",
+        "android_client_info": {
+          "package_name": "com.example.houserental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551586401891-ksr41jajt5ouj4jj42bf1f964vsr9jpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk-RsAFkLTQU8nIg1w6J8uhhmgpQO-S7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551586401891-ksr41jajt5ouj4jj42bf1f964vsr9jpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551586401891:android:aa84ef62d2508ec91cf256",
+        "android_client_info": {
+          "package_name": "com.example.landlord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551586401891-ksr41jajt5ouj4jj42bf1f964vsr9jpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk-RsAFkLTQU8nIg1w6J8uhhmgpQO-S7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551586401891-ksr41jajt5ouj4jj42bf1f964vsr9jpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551586401891:android:57203dd5d3d46f8f1cf256",
+        "android_client_info": {
+          "package_name": "com.example.naiyihousebooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551586401891-ksr41jajt5ouj4jj42bf1f964vsr9jpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk-RsAFkLTQU8nIg1w6J8uhhmgpQO-S7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551586401891-ksr41jajt5ouj4jj42bf1f964vsr9jpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551586401891:android:ee876a3c59d040321cf256",
+        "android_client_info": {
+          "package_name": "com.example.registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551586401891-ksr41jajt5ouj4jj42bf1f964vsr9jpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk-RsAFkLTQU8nIg1w6J8uhhmgpQO-S7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551586401891-ksr41jajt5ouj4jj42bf1f964vsr9jpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551586401891:android:ec1f15fb3fa24f8e1cf256",
+        "android_client_info": {
+          "package_name": "com.example.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551586401891-ksr41jajt5ouj4jj42bf1f964vsr9jpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk-RsAFkLTQU8nIg1w6J8uhhmgpQO-S7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551586401891-ksr41jajt5ouj4jj42bf1f964vsr9jpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551586401891:android:43b84e1f8b64ec9c1cf256",
+        "android_client_info": {
+          "package_name": "com.example.uploadpicture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551586401891-ksr41jajt5ouj4jj42bf1f964vsr9jpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk-RsAFkLTQU8nIg1w6J8uhhmgpQO-S7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551586401891-ksr41jajt5ouj4jj42bf1f964vsr9jpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551586401891:android:196b8ea389e56a5f1cf256",
+        "android_client_info": {
+          "package_name": "com.example.wenghui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551586401891-ksr41jajt5ouj4jj42bf1f964vsr9jpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk-RsAFkLTQU8nIg1w6J8uhhmgpQO-S7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551586401891-ksr41jajt5ouj4jj42bf1f964vsr9jpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

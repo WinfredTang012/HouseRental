@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:foregroundTint="#E6D3D3"
+    tools:context=".H_list"
+    android:background="@drawable/background2">
+
+    <ScrollView
+        android:layout_width="407dp"
+        android:layout_height="736dp"
+        android:contentDescription="@string/app_name"
+        tools:ignore="MissingConstraints">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/blank7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/pich1"
+                android:layout_width="match_parent"
+                android:layout_height="157dp"
+                tools:srcCompat="@tools:sample/avatars" />
+            <TextView
+                android:id="@+id/blank8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:textSize="18sp" />
+            <TextView
+                android:id="@+id/blank6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="offer"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/h1_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:text="location"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/h1_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="description"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/h1_facilities"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="facilities"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/h1_offer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="offer"
+                android:textSize="18sp" />
+            <TextView
+                android:id="@+id/blank4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/pich2"
+                android:layout_width="match_parent"
+                android:layout_height="157dp"
+                tools:srcCompat="@tools:sample/avatars" />
+            <TextView
+                android:id="@+id/blank5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/h2_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:text="location"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/h2_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="description"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/h2_facilities"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="facilities"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/h2_offer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="offer"
+                android:textSize="18sp" />
+            <TextView
+                android:id="@+id/blank"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/pich3"
+                android:layout_width="match_parent"
+                android:layout_height="157dp"
+                tools:srcCompat="@tools:sample/avatars" />
+            <TextView
+                android:id="@+id/blank3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/h3_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:text="location"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/h3_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="description"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/h3_facilities"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="facilities"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/h3_offer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="offer"
+                android:textSize="18sp" />
+            <TextView
+                android:id="@+id/blank2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/pich4"
+                android:layout_width="match_parent"
+                android:layout_height="157dp"
+                tools:srcCompat="@tools:sample/avatars" />
+
+            <TextView
+                android:id="@+id/h4_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:text="location"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/h4_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="description"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/h4_facilities"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="facilities"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/h4_offer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="offer"
+                android:textSize="18sp" />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
